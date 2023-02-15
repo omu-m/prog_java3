@@ -5,6 +5,6 @@ public class study3_10 {
     Person3_10.printData(Person3_10.fullName("John", "Christopher", "Smith"), 65, 1.75, 80.0);
   }
 
-  // 以下のメソッドすべてを、Personクラスに移動してください
+  // 以下のメソッドすべてを、Person3_10クラスに移動してください
 
 }
